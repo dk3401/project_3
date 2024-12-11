@@ -14,4 +14,4 @@ dependencies:
   - openpyxl
   - codecov
 -pip:
-  - sphinx-rtd-theme
+  - sphinx-rtd-theme==1.2.2
