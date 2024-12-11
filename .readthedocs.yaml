@@ -12,3 +12,7 @@ build:
 
 conda:
   environment: environment.yml
+
+python:
+  install:
+    - requirements: "requirements.txt"
