@@ -4,7 +4,6 @@ channels:
   - defaults
 dependencies:
   - python=3.12
-  - spyder
   - notebook
   - pyzmq
   - jupyter
@@ -12,4 +11,5 @@ dependencies:
   - jupyter-book
   - statsmodels
   - openpyxl
-  - codecov
+  - pandas
+  - numpy
