@@ -288,4 +288,3 @@ dependencies:
   - pip:
       - lxml==5.3.0
       - numpy==2.1.2
-prefix: /Users/darshanakrishnamony/anaconda3/envs/cic
