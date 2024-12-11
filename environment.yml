@@ -13,3 +13,5 @@ dependencies:
   - statsmodels
   - openpyxl
   - codecov
+-pip:
+  - sphinx-rtd-theme
